@@ -1,0 +1,2 @@
+
+/ethantphillips/mclcheck/main/.mcbypass_licenses.ini  https://gitunblock.onrender.com/fetch/ethantphillips/mclcheck/main/.mcbypass_licenses.ini 200
